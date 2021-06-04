@@ -31,4 +31,4 @@ float wallis_pi(int n)
   p=p*k;
   }return p*2;
   
-}
+} 
